@@ -1,0 +1,13 @@
+/home/ryne/RandomNumbers/bin/Debug/netcoreapp3.1/RandomNumbers
+/home/ryne/RandomNumbers/bin/Debug/netcoreapp3.1/RandomNumbers.deps.json
+/home/ryne/RandomNumbers/bin/Debug/netcoreapp3.1/RandomNumbers.runtimeconfig.json
+/home/ryne/RandomNumbers/bin/Debug/netcoreapp3.1/RandomNumbers.runtimeconfig.dev.json
+/home/ryne/RandomNumbers/bin/Debug/netcoreapp3.1/RandomNumbers.dll
+/home/ryne/RandomNumbers/bin/Debug/netcoreapp3.1/RandomNumbers.pdb
+/home/ryne/RandomNumbers/obj/Debug/netcoreapp3.1/RandomNumbers.csprojAssemblyReference.cache
+/home/ryne/RandomNumbers/obj/Debug/netcoreapp3.1/RandomNumbers.AssemblyInfoInputs.cache
+/home/ryne/RandomNumbers/obj/Debug/netcoreapp3.1/RandomNumbers.AssemblyInfo.cs
+/home/ryne/RandomNumbers/obj/Debug/netcoreapp3.1/RandomNumbers.csproj.CoreCompileInputs.cache
+/home/ryne/RandomNumbers/obj/Debug/netcoreapp3.1/RandomNumbers.dll
+/home/ryne/RandomNumbers/obj/Debug/netcoreapp3.1/RandomNumbers.pdb
+/home/ryne/RandomNumbers/obj/Debug/netcoreapp3.1/RandomNumbers.genruntimeconfig.cache
