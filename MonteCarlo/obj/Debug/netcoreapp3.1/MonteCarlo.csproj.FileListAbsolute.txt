@@ -1,0 +1,13 @@
+/home/ryne/MonteCarlo/obj/Debug/netcoreapp3.1/MonteCarlo.csprojAssemblyReference.cache
+/home/ryne/MonteCarlo/obj/Debug/netcoreapp3.1/MonteCarlo.AssemblyInfoInputs.cache
+/home/ryne/MonteCarlo/obj/Debug/netcoreapp3.1/MonteCarlo.AssemblyInfo.cs
+/home/ryne/MonteCarlo/obj/Debug/netcoreapp3.1/MonteCarlo.csproj.CoreCompileInputs.cache
+/home/ryne/MonteCarlo/bin/Debug/netcoreapp3.1/MonteCarlo
+/home/ryne/MonteCarlo/bin/Debug/netcoreapp3.1/MonteCarlo.deps.json
+/home/ryne/MonteCarlo/bin/Debug/netcoreapp3.1/MonteCarlo.runtimeconfig.json
+/home/ryne/MonteCarlo/bin/Debug/netcoreapp3.1/MonteCarlo.runtimeconfig.dev.json
+/home/ryne/MonteCarlo/bin/Debug/netcoreapp3.1/MonteCarlo.dll
+/home/ryne/MonteCarlo/bin/Debug/netcoreapp3.1/MonteCarlo.pdb
+/home/ryne/MonteCarlo/obj/Debug/netcoreapp3.1/MonteCarlo.dll
+/home/ryne/MonteCarlo/obj/Debug/netcoreapp3.1/MonteCarlo.pdb
+/home/ryne/MonteCarlo/obj/Debug/netcoreapp3.1/MonteCarlo.genruntimeconfig.cache
